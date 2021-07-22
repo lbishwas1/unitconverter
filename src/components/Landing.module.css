@@ -1,0 +1,23 @@
+.img{
+    margin-top:50px;
+    width: 300px;
+    height: auto;
+}
+
+input{
+    width: 400px;
+    height: 50px;
+   
+}
+select{
+    margin-top: 30px;
+    width: 200px;
+    height: 50px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
